@@ -1,4 +1,4 @@
-# DATAWAREHOUSE
+# DATA WAREHOUSE
 
 ## Introduction
 
